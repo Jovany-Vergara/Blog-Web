@@ -1,0 +1,4 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Vergara Magaña Diego Jovany"
+theme = "m10c"
