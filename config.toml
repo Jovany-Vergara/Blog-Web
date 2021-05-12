@@ -1,4 +1,28 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
-title = "Vergara Magaña Diego Jovany"
+title = "Jovany Vergara"
 theme = "m10c"
+
+[params]
+  author = "Jovany Vergara"
+  description = "I'm Developer"
+  menu_item_separator = " - "
+  avatar = "/yo1.jfif"
+
+
+[[params.social]]
+  icon = "github"
+  name = "My Github"
+  url = "https://github.com/Jovany-Vergara"
+
+   [[params.social]]
+    icon = "twitter"
+    name = "Twitter"
+    url = "https://twitter.com/MR_Wolverine114"
+
+[params.style]
+  darkestColor = "#1a73e8"
+  darkColor = "#1a73e8"
+  lightColor = "#1a73e8"
+  lightestColor = "#1a73e8"
+  primaryColor = "#1a73e8"
