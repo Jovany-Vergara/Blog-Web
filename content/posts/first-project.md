@@ -33,7 +33,7 @@ También al momento de crear una función que cuando se hiciera scroll la mostra
 ```scss
 .clasePadre{
   .Clasepredetermina{ 
-    ( Esto significa que que cada vez que encuentre la clase padre va hacer cambio en la clase predeterminada. )
+    ( Esto significa que que cada vez que encuentre la clase padre va hacer cambio en la clase predeterminada).
   }
 }
 ```
