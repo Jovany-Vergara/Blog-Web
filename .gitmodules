@@ -7,3 +7,9 @@
 [submodule "themes/m10c"]
 	path = themes/m10c
 	url = https://github.com/vaga/hugo-theme-m10c.git
+[submodule "themes/hugo-theme-hello-friend"]
+	path = themes/hugo-theme-hello-friend
+	url = https://github.com/panr/hugo-theme-hello-friend.git
+[submodule "themes/personal-web"]
+	path = themes/personal-web
+	url = https://github.com/bjacquemet/personal-web.git

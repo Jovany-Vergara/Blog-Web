@@ -40,7 +40,7 @@ nos tendría que salir esto para saber que si se creo
 ![](/img1.jfif)
 
 ### 3. Agregar un tema 
-Para elegir un tema a nuestro gusto podríamos buscar en [**themes.gohugo.io**]() (para obtener una lista de temas a considerar. Esta guía de inicio rápido utiliza el hermoso [tema de Ananke]())
+Para elegir un tema a nuestro gusto podríamos buscar en [**themes.gohugo.io**](https://themes.gohugo.io/) (para obtener una lista de temas a considerar. Esta guía de inicio rápido utiliza el hermoso [tema de Ananke]())
 antes de agregar el tema nos vamos a nuestro cmd o powershell y tenemos que estar cd de donde esta nuestra pagina que se creo para poder poner el tema por ejemplo yo utilice lo siguiente:
 
 ![](/ima2.png)

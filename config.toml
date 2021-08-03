@@ -19,10 +19,3 @@ theme = "m10c"
     icon = "twitter"
     name = "Twitter"
     url = "https://twitter.com/MR_Wolverine114"
-
-[params.style]
-  darkestColor = "#1a73e8"
-  darkColor = "#1a73e8"
-  lightColor = "#1a73e8"
-  lightestColor = "#1a73e8"
-  primaryColor = "#1a73e8"
