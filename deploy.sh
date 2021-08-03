@@ -26,6 +26,6 @@ echo "9.- Añadiendo commit a master principal ----------------------------"
 cd ..
 git add -A
 git commit -m "$comm"
-git push origin master --force
+git push origin main --force
 
 echo "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@"
