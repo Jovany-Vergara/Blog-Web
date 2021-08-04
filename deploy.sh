@@ -20,7 +20,7 @@ echo brandonvergara.me >> CNAME
 git checkout master
 git add -A
 git commit -m "$comm"
-git push origin master --force
+git push origin main --force
 echo "8.- Actualizado repositorio, revisa cambios en el blog ----------------------------"
 echo "9.- Añadiendo commit a master principal ----------------------------"
 cd ..
@@ -28,4 +28,4 @@ git add -A
 git commit -m "$comm"
 git push origin main --force
 
-echo "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@"
+echo "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
