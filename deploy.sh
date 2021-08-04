@@ -8,7 +8,7 @@ echo "4.- Actualizando en el repositorio de blog, git status del código fuente 
 echo "5.- OK Aplicando git add -A, git commit, y git push-------------------------------------------------------"
 git add -A
 git commit -m "$comm"
-git push origin master
+git push origin main
 echo "6.- Repositorio Blog actualizado, chechar en GitHub.io los cambios"
 
 echo "7.- Actualizando contenido estático del blog"
