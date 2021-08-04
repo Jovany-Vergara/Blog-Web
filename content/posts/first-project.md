@@ -6,19 +6,19 @@ draft: false
 
 # Esto comenzó el 18 de mayo del 2021
 
-Fue el primer día que hable con el cliente con lo cual me sentía demasiado nervioso, pero ya mayoría del tiempo hablo [Juan (dueño de Making Devs)](https://www.makingdevs.com/), Cuando empezó Juan a decirles que cerraran los ojos y se imaginaran como veía el sitio, a lo cual había choques de ideas, pero siempre juan se las aclaraba y fue como que wow hasta a mí me sorprendió.Después de terminar la sesión, se me asigno lo que iba a hacer como se iba a trabajar y todo, a lo cual se me encargo hacer un pequeño prototipo del sitio lo cual no le entendía mucho, porque no sabía que hacían ciertas cosas, como el frameword era Vue, casi no sabía mucho, pero gracias a [Brandon (miembro de Making Devs)](http://brandonvergara.me/), que me explico ciertas dudas ya pude avanzar y terminar el prototipo.
+Fue el primer día que hable con el cliente con lo cual me sentía demasiado nervioso, pero ya mayoría del tiempo hablo [Juan (dueño de Making Devs)](https://www.makingdevs.com/),empezó a decirles que cerraran los ojos y se imaginaran como veía el sitio, a lo cual había choques de ideas, pero siempre Juan se las aclaraba y fue como que wow hasta a mí me sorprendió.Después de terminar la sesión, se me asigno lo que iba a hacer como se iba a trabajar, a lo cual se me encargo hacer un pequeño prototipo del sitio lo cual no le entendía mucho, porque no sabía que hacían ciertas cosas, como el frameword era Vue, casi no sabía mucho, pero gracias a [Brandon (miembro de Making Devs)](http://brandonvergara.me/), que me explico ciertas dudas ya pude avanzar y terminar el prototipo.
 
 ## Primer muestra a los clientes
-Cuando toco mostrar el boceto que hice, me sentía muy nervioso valla estaba sudando demasiad, llego un momento en cuál dije: **Por favor que no me pregunten porque no voy a saber que decir**, y valla cuando juan me vio porque teníamos las cámaras prendidas; fue mi salvación y ya él me ayudo a explicar lo que se hizo y fue como si fuera a respirar de nuevo.
+Cuando toco mostrar el boceto que hice, me sentía muy nervioso estaba sudando demasiado, llego un momento en el cuál dije: **Por favor que no me pregunten porque no voy a saber que decir**, y cuando Juan me vio porque teníamos las cámaras prendidas; fue mi salvación y él me ayudo a explicar lo que se hizo y fue como si fuera a respirar de nuevo.
 
 ## Después de la reunión
 
-Me reuní con Juan y ya él me dio luz verde para empezar ya, a trabajar la página como los clientes la querían y empece buscando un tema que se pareciera a como ellos lo querían y ya tenía todo para iniciar.
+Me reuní con Juan y ya él me dio luz verde para empezar, a trabajar la página como los clientes la querían y empece buscando un tema que se pareciera a como ellos lo querían y ya tenía todo para iniciar.
 
 ## Dudas que tuve 
 
 + Bueno empece a poner todo lo que nos habían pedido, mi conflicto fue cuando el cliente pidió unas animaciones (lo cual no sabía como buscarlo), pero pregunte al equipo y ya ellos me dieron ideas de que buscar y [***Brandon me ayudo con ejemplos de como implementarlos en la página e incluso para crearles una función***](http://brandonvergara.me/).
-También al momento de crear una función que cuando se hiciera scroll la mostrara, no sabía como hacerla lo cual me tenía muy atorado, hasta que ***Brandon se tomó un tiempo y me explicó que tenía mal y porque no funcionaba**, y valla a lo cual aprendí demasiado y era algo muy fácil de saber hacer.
+También al momento de crear una función que cuando se hiciera scroll la mostrara, no sabía como hacerla lo cual me tenía muy atorado, hasta que ***Brandon se tomó un tiempo y me explicó que tenía mal y porque no funcionaba**, aprendí demasiado y era algo muy fácil de saber hacer.
 
 + Otro tema que tuve duda fue cuando el cliente quería un administrar el contenido de unas tarjetas a lo cual me dijeron que usara Firebase, pero ahí si no sabía nada ni como iniciar lo básico, les comete el problema que estaba teniendo al equipo, en lo cual Brandon accedió ayudarnos con esa parte, la hizo y nos iba explicando paso por paso.
 
