@@ -44,6 +44,6 @@ También al momento de crear una función que cuando se hiciera scroll la mostra
 
 ## Como me siento actualmente 
 
-Me siento muy cómodo. Cada día aprendo más y cada vez que tengo una duda me la responden y con ejemplos, podría decir que [Making Devs](https://www.makingdevs.com/) ácido lo mejor que me ha pasado en la vida, cada día aprendo más y he aprendido nuevas cosas, dos veces a la semana estoy en un curso que Juan me invitó y también cada martes es una sesión con el de aprendizaje y los jueves es otra sesión de dudas o algo que queramos aprender.
+Me siento muy cómodo. Cada día aprendo más y cada vez que tengo una duda me la responden y con ejemplos, podría decir que [Making Devs](https://www.makingdevs.com/) ha sido lo mejor que me ha pasado en la vida, cada día aprendo más y he aprendido nuevas cosas, dos veces a la semana estoy en un curso que Juan me invitó y también cada martes es una sesión con el de aprendizaje y los jueves es otra sesión de dudas o algo que queramos aprender.
 
 ### Gracias por leer mi pequeña experiencia en mi primer trabajo como desarrollador.
