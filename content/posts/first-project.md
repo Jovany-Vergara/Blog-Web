@@ -22,7 +22,7 @@ También al momento de crear una función que cuando se hiciera scroll la mostra
 
 + Otro tema que tuve duda fue cuando el cliente quería un administrar el contenido de unas tarjetas y me dijeron que usara Firebase, pero ahí si no sabía nada: ni cómo iniciar lo básico. Le comenté al equipo el problema que estaba teniendo, y Brandon accedió a ayudarnos con esa parte. La hizo y nos iba explicando paso por paso.
 
-## ¿ Que aprendí ?
+## ¿ Qué aprendí ?
 
 + Todavía no se al 100% JS, pero sí puedo ya hacer una función; aprendí a usar bootstrap y es algo que sí me gustaría recomendarles es que es un Frameword de diseño, que ya tiene sus propias clases con las cuales puedes crear mensajes flotantes, botones con diseño. Si tienes bootstrap en uno de tus proyectos, ya tienes la mitad del proyecto hecho, porque bootstrap tiene todo: si necesitas espacios o posicionar algo, todo está en la documentación de bootstrap.
 
